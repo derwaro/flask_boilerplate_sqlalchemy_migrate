@@ -1,4 +1,4 @@
-#Flask Boilerplate
+# Flask Boilerplate
 **containing Flask, Flask-SQLAlchemy and Flask-Migrate**
 
 ## Usage:
